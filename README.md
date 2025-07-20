@@ -2,15 +2,13 @@
 👋 Hi, I’m @kamalakarcheviti  
 I'm a passionate Power Platform Developer and Microsoft Dynamics 365 CRM/CE Specialist with hands-on experience designing and building low-code business solutions that drive digital transformation.
 
-With a strong background in:
+#### With a strong background in: (Power Automate, Power Apps, Power Bi, Copilot Studio, Dynamics 365 CRM/CE, Dataverse, Sharepoint).
 
-## Power Automate:
-Advanced workflow automation, approval systems, and data integrations
+Power Automate: Advanced workflow automation, approval systems, and data integrations
 
-## Power Apps:
-Canvas & Model-Driven Apps, custom controls (PCF), and responsive UI design
+Power Apps: Canvas & Model-Driven Apps, custom controls (PCF), and responsive UI design
 
-Copilot Studio: Creating AI-powered chatbots to streamline business interactions
+Copilot Studio:  Creating AI-powered chatbots to streamline business interactions
 
 Dynamics 365 CRM/CE: Customizations, Plugins, Workflows, JavaScript, and API integrations
 
