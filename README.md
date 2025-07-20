@@ -15,4 +15,5 @@ Dynamics 365 CRM/CE: Customizations, Plugins, Workflows, JavaScript, and API int
 Dataverse, SharePoint & Microsoft 365: Data modeling, storage, and cross-platform integration
 
 I love solving real-world problems through automation, scalable architecture, and intuitive UX. Whether it’s building AI-enhanced chatbots or automating enterprise workflows, I aim to deliver clean, maintainable solutions.
+
 reachout to  chevitikamalakar234@gmail.com
